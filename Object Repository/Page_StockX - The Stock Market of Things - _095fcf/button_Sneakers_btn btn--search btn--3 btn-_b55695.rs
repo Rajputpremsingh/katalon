@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sneakers_btn btn--search btn--3 btn-_b55695</name>
+   <tag></tag>
+   <elementGuidId>9aff46be-6513-4037-8c17-2fc88d732dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn--search.btn--3.btn--icon.icon-far</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1ccb2d06-69ae-4398-ba85-5eb7e9385576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6627bcb1-5a69-4aa3-b7e3-0172b10115ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--search btn--3 btn--icon icon-far</value>
+      <webElementGuid>3840bb92-a5cd-4d74-9382-bcdf9fe572b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-sx-search-form&quot;)/div[@class=&quot;form-element form-element--1 site-header-sx-search&quot;]/span[@class=&quot;form-element__field&quot;]/button[@class=&quot;btn btn--search btn--3 btn--icon icon-far&quot;]</value>
+      <webElementGuid>b015aa89-40b2-49d0-b0d9-fa9eefae7354</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>29f054ce-e89f-4699-97aa-eb8e53cedfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-sx-search-form']/div/span/button</value>
+      <webElementGuid>a0e2ebbf-9187-465c-9c74-71b7a85fea74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c5f546bd-ee04-4691-80de-d356ef32b5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>1c9ec592-483f-442e-bced-08d12d8c4eb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
