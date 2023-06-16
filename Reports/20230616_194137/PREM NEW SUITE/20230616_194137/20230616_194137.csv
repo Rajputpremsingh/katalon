@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PREM NEW SUITE,Chrome 114.0.0.0,,,2023-06-16 19:41:42,2023-06-16 19:41:51,9.301s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 114.0.0.0,,,2023-06-16 19:41:42,2023-06-16 19:41:51,8.896s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-16 19:41:43,2023-06-16 19:41:46,3.346s,PASSED
+"navigateToUrl(""https://stockx.com/news/"")",Chrome 114.0.0.0,,,2023-06-16 19:41:46,2023-06-16 19:41:51,4.955s,PASSED

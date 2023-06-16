@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 114.0.0.0,,,2023-06-16 16:31:11,2023-06-16 16:31:19,8.252s,PASSED
+,,,,,,,
+Test Cases/login,Chrome 114.0.0.0,,,2023-06-16 16:31:11,2023-06-16 16:31:19,7.537s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-16 16:31:12,2023-06-16 16:31:16,4.278s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 114.0.0.0,,,2023-06-16 16:31:16,2023-06-16 16:31:18,1.354s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""), ""7319805945"")",Chrome 114.0.0.0,,,2023-06-16 16:31:18,2023-06-16 16:31:19,1.126s,PASSED

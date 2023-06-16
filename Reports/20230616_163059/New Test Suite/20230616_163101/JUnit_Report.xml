@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="8.252" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="8.252" skipped="0" timestamp="2023-06-16 16:31:11" hostname="premKumarsingh - DESKTOP-CMSF7SI" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\premKumarsingh\\git\\katalon\\katalon\\Reports\\20230616_163059\\New Test Suite\\20230616_163101"/>
+         <property name="logFiles" value="C:\\Users\\premKumarsingh\\git\\katalon\\katalon\\Reports\\20230616_163059\\New Test Suite\\20230616_163101\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="premKumarsingh - DESKTOP-CMSF7SI"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.48"/>
+         <property name="sessionId" value="9d07b35a46aa4af0b23e1215b6eb6a8d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/login" time="7.537" classname="Test Cases/login" status="PASSED">
+         <system-out><![CDATA[2023-06-16 16:31:11 - [TEST_CASE][PASSED] - Test Cases/login: Test Cases/login
+
+2023-06-16 16:31:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-16 16:31:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-16 16:31:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-16 16:31:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-16 16:31:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.facebook.com/"): Navigate to 'https://www.facebook.com/' successfully
+
+2023-06-16 16:31:18 - [MESSAGE][PASSED] - Navigate to 'https://www.facebook.com/' successfully
+
+2023-06-16 16:31:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60"), "7319805945"): Text '7319805945' is set on object 'Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60'
+
+2023-06-16 16:31:19 - [MESSAGE][PASSED] - Text '7319805945' is set on object 'Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-16 16:31:11 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
