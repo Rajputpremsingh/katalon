@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In</name>
+   <tag></tag>
+   <elementGuidId>37ac1029-fb9c-42a3-aaec-e9e5331fa0ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.ant-btn-lg.crmLogin_buttonColor__OZCJj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f5059263-1bcd-44fb-a87a-e3c789be8bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ca132248-13c2-44fa-ae2d-0af9d48a7cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default ant-btn-lg crmLogin_buttonColor__OZCJj</value>
+      <webElementGuid>f3e17d12-4200-4197-89ce-9f0590dadda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign In</value>
+      <webElementGuid>bbd28782-a3e7-44d5-813b-3478ed2b2bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/section[@class=&quot;ant-layout&quot;]/section[@class=&quot;ant-layout layoutMain&quot;]/section[@class=&quot;ant-layout layoutSide&quot;]/section[@class=&quot;ant-layout&quot;]/div[@class=&quot;crmLogin_loginAlignCrmLogin__aAVeg&quot;]/div[@class=&quot;ant-row Login-row-layout&quot;]/div[@class=&quot;ant-col crmLogin_layoutAlignCrmLogin___Rojw ant-col-sm-24 ant-col-md-24 ant-col-lg-12 ant-col-xl-11&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-15 ant-col-lg-15&quot;]/div[@class=&quot;commonDetails&quot;]/div[1]/div[@class=&quot;ant-card ant-card-bordered signCard&quot;]/div[@class=&quot;ant-card-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-lg crmLogin_buttonColor__OZCJj&quot;]</value>
+      <webElementGuid>1d496361-de09-4b28-a590-ca1f936b6014</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>86dd6eb7-8252-4fb8-a52f-17ee1d95b583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/section/section/section/div/div/div[2]/div/div/div/div/div/form/div[4]/div/div/div/button</value>
+      <webElementGuid>5caec98a-c8a3-4512-861a-23c0f3410b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::button[1]</value>
+      <webElementGuid>1e4d1bb5-06bf-4ce9-823b-dc2c0c8637b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>0328d444-98e5-4335-ba4b-29e4a5021bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/button</value>
+      <webElementGuid>9d1ae33b-1195-4482-abce-cac1983dad5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Sign In' or . = ' Sign In')]</value>
+      <webElementGuid>30d5e927-dcb3-40e7-81ba-d7c45e904605</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
